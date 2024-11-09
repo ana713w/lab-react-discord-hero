@@ -1,0 +1,10 @@
+.title {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 4.2rem;
+    font-weight: 900;
+    max-width: 400px;
+    line-height: 4rem;
+    margin: 0;
+    margin-bottom: 20px;
+}
