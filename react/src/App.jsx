@@ -20,7 +20,7 @@ function App() {
         <Button type="white" text="Download for Mac" />
         <Button type="black" text="Open Discord in your browser" />
       </div>
-      <img src="./assets/discord-background.png" alt="background"></img>
+      <img src="../src/assets/discord-background.png" alt="background"></img>
     </div>
   );
 }
