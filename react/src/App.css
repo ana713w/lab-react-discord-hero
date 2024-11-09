@@ -3,7 +3,7 @@
 }
 
 .App {
-  
+  position: relative;
 }
 
 .nav {
@@ -24,5 +24,11 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: space-evenly;
+
 }
 
+.background  {
+  position: fixed;
+  bottom:0;
+  right: 10%;
+}
